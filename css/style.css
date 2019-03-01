@@ -3,11 +3,11 @@ body {
 }
 
 .content {
-    background-color: rgba(255,255,255,0.8);
+    background-color: rgba(215, 230, 37, 0.80);
 }
 
 header, main {
-    background-color: rgba(0,50,100,0.3);
+    background-color: red;
 } 
 
 h2 {
